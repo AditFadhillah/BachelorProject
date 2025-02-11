@@ -1,0 +1,26 @@
+Knud Henriksen (grafik) - kaiip@di.ku.dk
+Henrik Holm (LinAlg) - holm@math.ku.dk
+Henrik Laurberg Pedersen (LinAlg) - henrikp@math.ku.dk
+Kasper Hornbæk (Inter) - kash@di.ku.dk
+Boris Düdder (SU) - boris.d@di.ku.dk
+Ken Friis Larsen (PoP) - kflarsen@di.ku.dk
+Dmitriy Traytel (DIS) - traytel@di.ku.dk
+Thomas Troels Hildebrandt (Cloud) - hilde@di.ku.dk
+Tilman Zuckmantel (Cloud) - tizu@di.ku.dk
+
+
+Template for bachelorprojekt email
+
+Hej [Proffesor navn],
+
+Jeg er Adit, en tredjeårs datalogistuderende her på KU. Tiden nærmer sig, hvor jeg skal i gang med mit bachelorprojekt, og jeg er i gang med at søge efter et spændende emne.
+
+Jeg tænkte, at det ville være rigtig fedt at få nogle idéer fra dig.  Hvis du har nogle forslag eller er interesseret i at vejlede et projekt, ville jeg virkelig sætte pris på at høre fra dig.
+
+Tak fordi du tog dig tid til at læse min e-mail. Jeg ser frem til at høre fra dig. 
+
+
+Bedste hilsner,
+
+Aditya Fadhillah, 
+hjg708
