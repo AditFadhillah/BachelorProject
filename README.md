@@ -1,6 +1,6 @@
 # BachelorProject – Task List Application for Nursing Home Caregivers
 
-Dette repository indeholder dokumentation, kode og materialer relateret til vores **bachelorprojekt** ved **Datalogisk Institut, Københavns Universitet**. Projektet fokuserer på udviklingen af en **task management-applikation** til plejepersonale på plejehjem ved hjælp af **Dynamic Condition Response (DCR) Graphs**.
+Dette repository indeholder dokumentation, kode og materialer relateret til vores **bachelorprojekt** på **Datalogisk Institut, Københavns Universitet**. Projektet fokuserer på udviklingen af en **task management-applikation** til plejepersonale på plejehjem ved hjælp af **Dynamic Condition Response (DCR) Graphs**.
 
 ## 📌 Om projektet
 
