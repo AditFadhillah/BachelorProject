@@ -31,8 +31,8 @@ Projektet er motiveret af det stigende pres på sundhedssektoren i takt med en a
 
 Applikationen blev udviklet i samarbejde med plejepersonale på **Hotherhaven Plejehjem**. Interviews afslørede, at eksisterende systemer (f.eks. **Columna Cura**) manglede detaljerede opgavelister og intuitiv brugeroplevelse. **Vores løsning** tilbyder:
 
-✔ Skiftbaseret opgavestyring  
-✔ Notetagning og deling mellem plejere  
+✔ Vagtbaseret tasklist  
+✔ Notetagning og deling mellem hjemmeplejere  
 ✔ Brugerdefinerede opgaver gennem et admin-panel  
 ✔ Live-opdateringer via DCR Graphs  
 
